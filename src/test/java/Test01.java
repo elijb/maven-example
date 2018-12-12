@@ -12,4 +12,9 @@ public class Test01 {
         String str = "my string";
 	assertEquals("my string", str);
     }
+	
+    @Test public void mytest03() {
+        String str = "my string";
+	assertEquals("my string", str);
+    }
 }
