@@ -10,6 +10,6 @@ public class Test01 {
     
     @Test public void mytest02() {
         String str = "my string";
-	assertEquals("my string", str);
+	assertEquals("my string2", str);
     }
 }
